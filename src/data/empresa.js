@@ -19,7 +19,11 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
-    }
+    },
+    {
+      titulo: "Código Limpo e Escalável",
+      descricao: "Priorizamos a arquitetura sustentável e a qualidade do código para garantir sistemas seguros, de alta performance e fáceis de manter."
+    },
   ],
   publicoAlvo:
     "Pequenas e médias empresas (PMEs), startups e profissionais autônomos de diversos segmentos, como comércio, saúde, educação e serviços, que precisam de sistemas web, aplicativos e soluções de gestão personalizadas, além de organizações que buscam modernizar sistemas legados ou melhorar a gestão e a segurança de seus dados.",
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
-    }
+    },
+    {
+       nome: "Emily Melo",
+      cargo: "Programadora backend",
+      foto: "/images/emilyfoto.png",
+      alt: "foto emily",
+      descricao: "Formou na UFPI e se especializou na PUC do Rio de Janeiro"
+    },
   ]
 };
